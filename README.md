@@ -47,5 +47,5 @@ Esperar 1-2 minutos y abrir:
 ## Uso local (sin GitHub)
 Simplemente abrir index.html en cualquier navegador. 
 
-## Para usar el pomodoro entra al enlace 
+### 5. Para usar el pomodoro entra al enlace 
     https://peterargueta.github.io/pomodoro/
