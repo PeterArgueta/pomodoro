@@ -1,4 +1,5 @@
 # Pomodoro
+https://peterargueta.github.io/pomodoro/
 
 Temporizador Pomodoro con tomate kawaii animado.
 Un solo archivo HTML, sin dependencias, funciona en GitHub Pages.
@@ -41,7 +42,5 @@ Desde la terminal, en la carpeta donde esta este index.html:
 ### 4. Abrir en el navegador
 Esperar 1-2 minutos y abrir:
     https://TU-USUARIO.github.io/pomodoro/
-    https://peterargueta.github.io/pomodoro/
-
 ---
 
