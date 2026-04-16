@@ -41,11 +41,7 @@ Desde la terminal, en la carpeta donde esta este index.html:
 ### 4. Abrir en el navegador
 Esperar 1-2 minutos y abrir:
     https://TU-USUARIO.github.io/pomodoro/
+    https://peterargueta.github.io/pomodoro/
 
 ---
 
-## Uso local (sin GitHub)
-Simplemente abrir index.html en cualquier navegador. 
-
-### 5. Para usar el pomodoro entra al enlace 
-    https://peterargueta.github.io/pomodoro/
