@@ -1,7 +1,7 @@
 # Pomodoro
 https://peterargueta.github.io/pomodoro/
 
-Temporizador Pomodoro con tomate kawaii animado.
+Temporizador Pomodoro animado.
 Un solo archivo HTML, sin dependencias, funciona en GitHub Pages.
 
 ---
@@ -25,7 +25,7 @@ Desde la terminal, en la carpeta donde esta este index.html:
 
     git init
     git add index.html README.md
-    git commit -m "Pomodoro Kawaii"
+    git commit -m "Pomodoro"
     git branch -M main
     git remote add origin https://github.com/TU-USUARIO/pomodoro.git
     git push -u origin main
