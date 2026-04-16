@@ -1,4 +1,4 @@
-# Pomodoro
+# Pomodoro 🍅
 https://peterargueta.github.io/pomodoro/
 
 Temporizador Pomodoro animado.
