@@ -1,4 +1,4 @@
-# Pomodoro Kawaii
+# Pomodoro
 
 Temporizador Pomodoro con tomate kawaii animado.
 Un solo archivo HTML, sin dependencias, funciona en GitHub Pages.
